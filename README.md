@@ -1,1 +1,1 @@
-# INS-Assignments
+# Pragati - AI For Impact Hackathon
